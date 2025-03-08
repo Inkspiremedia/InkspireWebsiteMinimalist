@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inkspire - Content That Converts</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; color: #333; }
+        header { background: #1E3A8A; color: white; text-align: center; padding: 20px; font-size: 24px; }
+        nav { text-align: center; padding: 15px; background: #333; }
+        nav a { color: white; text-decoration: none; padding: 10px 20px; }
+        nav a:hover { background: #575757; }
+        .container { max-width: 1000px; margin: 20px auto; padding: 20px; background: white; box-shadow: 0px 0px 10px rgba(0,0,0,0.1); }
+        .section { margin-bottom: 30px; }
+        .btn { display: inline-block; background: #1E3A8A; color: white; padding: 10px 20px; text-decoration: none; margin-top: 10px; }
+        footer { background: #333; color: white; text-align: center; padding: 20px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <header>Inkspire - Ink Your Ideas. Inspire the World.</header>
+    <nav>
+        <a href="#services">Services</a>
+        <a href="#portfolio">Portfolio</a>
+        <a href="#testimonials">Testimonials</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <div class="container">
+        <section id="about" class="section">
+            <h2>Who We Are</h2>
+            <p>At Inkspire, we craft high-impact content that engages, informs, and converts. From SEO blogs to compelling ad copy, we elevate brands through strategic storytelling.</p>
+        </section>
+        <section id="services" class="section">
+            <h2>Our Services</h2>
+            <ul>
+                <li>SEO-Optimized Blog & Article Writing</li>
+                <li>Website & Landing Page Copywriting</li>
+                <li>Persuasive Ad & Sales Copy</li>
+                <li>Social Media Content & Strategy</li>
+                <li>Video Scriptwriting & Storytelling</li>
+            </ul>
+        </section>
+        <section id="portfolio" class="section">
+            <h2>Our Work</h2>
+            <p>We have worked with e-commerce brands, SaaS startups, finance firms, and more, delivering content that drives engagement and sales.</p>
+        </section>
+        <section id="testimonials" class="section">
+            <h2>What Our Clients Say</h2>
+            <p>"Inkspire transformed our website content, improving conversions and engagement!" - Happy Client</p>
+        </section>
+        <section id="contact" class="section">
+            <h2>Contact Us</h2>
+            <p>Email: contact@inkspire.com</p>
+            <p>Website: <a href="http://www.inkspire.com">www.inkspire.com</a></p>
+            <p>Phone: [Your Phone Number]</p>
+            <a href="mailto:contact@inkspire.com" class="btn">Get in Touch</a>
+        </section>
+    </div>
+    <footer>
+        &copy; 2024 Inkspire. All Rights Reserved.
+    </footer>
+</body>
+</html>
